@@ -1,0 +1,1 @@
+this document is for messing around and understanding how to use git and github.
